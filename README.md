@@ -1,3 +1,5 @@
-# python4bioinfo_2026
+# Bioinformatics workshops - Python
+
+For Wchem PW 2026.
 
 Repository for bioinformatics workshops.
